@@ -1,7 +1,7 @@
 # off-on-esp32
 Operation to turn on or off the esp32 piece
 # Here the network name and password have been modified.
-![image](https://user-images.githubusercontent.com/95648490/182058852-07510ef5-3c0e-467c-8d59-f95f0a2c8b48.png)
+![image](https://user-images.githubusercontent.com/95648490/182059137-3de8a3cf-92a6-428a-868c-5223a9c91716.png)
 # Here when you connect the widget to the computer.
 ![image](https://user-images.githubusercontent.com/95648490/182058896-9bf3b79b-f8e7-4900-a4b8-6d713e586217.png)
 # Here is the network connection, network name is alal and password is 123456789.
