@@ -1,0 +1,10 @@
+To complete this task and enable the operation and shutdown of the lighting of the esp32 Wasdom piece, important steps were based on:
+1. Open the arduino IDE program.
+2. Connect the esp32 piece to a computer through an HD cord.
+3. From the taskbar to choose a file, then examples, then WiFi, then wifiaccesspoint.
+4. Modify the network name and password and enter html page data.
+5. Download this process and wait for it to be completed.
+6. Search for the name of the network in the computer and run it.
+7. Open a browser Microsoft Edge and write type the IP address of the esp32 in search.
+8. Here we are pushing to close.
+9. Here we are pushing to run.
